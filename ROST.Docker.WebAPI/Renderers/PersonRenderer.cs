@@ -1,5 +1,6 @@
 using System;
 using ROST.Docker.Models.Models;
+using ROST.Docker.Models.Models.Base;
 
 namespace ROST.Docker.WebAPI.Renderers
 {

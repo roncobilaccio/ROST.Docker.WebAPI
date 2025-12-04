@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0" />
+    <PackageReference Include="ROST.Docker.Models" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
