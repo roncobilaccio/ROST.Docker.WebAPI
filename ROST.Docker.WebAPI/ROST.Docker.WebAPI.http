@@ -1,6 +1,1 @@
 @ROST.Docker.WebAPI_HostAddress = http://localhost:5062
-
-GET {{ROST.Docker.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
